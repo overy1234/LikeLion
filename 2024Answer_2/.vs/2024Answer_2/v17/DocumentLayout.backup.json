@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\2024Answer_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D64C5D-0D83-4C18-8B71-E7B0519454EF}|2024Answer_2\\2024Answer_2.csproj|c:\\likelion\\likelion\\2024answer_2\\2024answer_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D64C5D-0D83-4C18-8B71-E7B0519454EF}|2024Answer_2\\2024Answer_2.csproj|solutionrelative:2024answer_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\2024Answer_2\\2024Answer_2\\Program.cs",
+              "RelativeDocumentMoniker": "2024Answer_2\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\2024Answer_2\\2024Answer_2\\Program.cs",
+              "RelativeToolTip": "2024Answer_2\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T02:48:49.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

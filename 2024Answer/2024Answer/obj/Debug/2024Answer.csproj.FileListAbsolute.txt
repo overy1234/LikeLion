@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\2024Answer\2024Answer\bin\Debug\2024Answer.exe.config
+C:\LikeLion\LikeLion\2024Answer\2024Answer\bin\Debug\2024Answer.exe
+C:\LikeLion\LikeLion\2024Answer\2024Answer\bin\Debug\2024Answer.pdb
+C:\LikeLion\LikeLion\2024Answer\2024Answer\obj\Debug\2024Answer.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\2024Answer\2024Answer\obj\Debug\2024Answer.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\2024Answer\2024Answer\obj\Debug\2024Answer.exe
+C:\LikeLion\LikeLion\2024Answer\2024Answer\obj\Debug\2024Answer.pdb
