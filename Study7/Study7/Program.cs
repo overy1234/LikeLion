@@ -82,7 +82,20 @@ namespace Study7
             //Console.WriteLine(a);
 
 
+            //증감 연산자 할차례
+            //12:00~1시 점심시간 
+            //식사들 맛있게 하고 오세요.
 
+            //증감 연산자
+
+            int b = 3;
+
+            //전위 ++b , 후위 b++
+
+           Console.WriteLine("b의 값은 : " + (b++));
+            // Console.WriteLine("b의 값은 : " + (b));
+            
+            //Console.WriteLine("b의 값은 : " + (b--));
 
 
         }
