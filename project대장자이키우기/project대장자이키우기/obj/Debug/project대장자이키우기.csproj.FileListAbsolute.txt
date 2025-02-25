@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\project대장자이키우기\project대장자이키우기\bin\Debug\project대장자이키우기.exe.config
+C:\LikeLion\LikeLion\project대장자이키우기\project대장자이키우기\bin\Debug\project대장자이키우기.exe
+C:\LikeLion\LikeLion\project대장자이키우기\project대장자이키우기\bin\Debug\project대장자이키우기.pdb
+C:\LikeLion\LikeLion\project대장자이키우기\project대장자이키우기\obj\Debug\project대장자이키우기.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\project대장자이키우기\project대장자이키우기\obj\Debug\project대장자이키우기.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\project대장자이키우기\project대장자이키우기\obj\Debug\project대장자이키우기.exe
+C:\LikeLion\LikeLion\project대장자이키우기\project대장자이키우기\obj\Debug\project대장자이키우기.pdb
