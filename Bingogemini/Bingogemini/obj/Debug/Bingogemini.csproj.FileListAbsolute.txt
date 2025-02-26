@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\Bingogemini\Bingogemini\bin\Debug\Bingogemini.exe.config
+C:\LikeLion\LikeLion\Bingogemini\Bingogemini\bin\Debug\Bingogemini.exe
+C:\LikeLion\LikeLion\Bingogemini\Bingogemini\bin\Debug\Bingogemini.pdb
+C:\LikeLion\LikeLion\Bingogemini\Bingogemini\obj\Debug\Bingogemini.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\Bingogemini\Bingogemini\obj\Debug\Bingogemini.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\Bingogemini\Bingogemini\obj\Debug\Bingogemini.exe
+C:\LikeLion\LikeLion\Bingogemini\Bingogemini\obj\Debug\Bingogemini.pdb

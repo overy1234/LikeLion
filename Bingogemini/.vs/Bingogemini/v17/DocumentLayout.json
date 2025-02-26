@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\Bingogemini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F92D7B1-9FDB-404C-B0D9-0BBB0FDE3208}|Bingogemini\\Bingogemini.csproj|c:\\likelion\\likelion\\bingogemini\\bingogemini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F92D7B1-9FDB-404C-B0D9-0BBB0FDE3208}|Bingogemini\\Bingogemini.csproj|solutionrelative:bingogemini\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\Bingogemini\\Bingogemini\\Program.cs",
+              "RelativeDocumentMoniker": "Bingogemini\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\Bingogemini\\Bingogemini\\Program.cs",
+              "RelativeToolTip": "Bingogemini\\Program.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAA2wA4BAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:03:32.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
