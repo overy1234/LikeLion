@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\ShootingGame1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE44CE2-3F33-4AE3-B701-9594DDFE58C2}|ShootingGame1\\ShootingGame1.csproj|c:\\likelion\\likelion\\shootinggame1\\shootinggame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE44CE2-3F33-4AE3-B701-9594DDFE58C2}|ShootingGame1\\ShootingGame1.csproj|solutionrelative:shootinggame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\ShootingGame1\\ShootingGame1\\Program.cs",
+              "RelativeDocumentMoniker": "ShootingGame1\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\ShootingGame1\\ShootingGame1\\Program.cs",
+              "RelativeToolTip": "ShootingGame1\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:04:30.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
