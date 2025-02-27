@@ -1,0 +1,7 @@
+C:\C#study\study13\study13\bin\Debug\study13.exe.config
+C:\C#study\study13\study13\bin\Debug\study13.exe
+C:\C#study\study13\study13\bin\Debug\study13.pdb
+C:\C#study\study13\study13\obj\Debug\study13.csproj.AssemblyReference.cache
+C:\C#study\study13\study13\obj\Debug\study13.csproj.CoreCompileInputs.cache
+C:\C#study\study13\study13\obj\Debug\study13.exe
+C:\C#study\study13\study13\obj\Debug\study13.pdb
