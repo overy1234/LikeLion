@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\shootingGame_Refactoring\shootingGame_Refactoring\bin\Debug\shootingGame_Refactoring.exe.config
+C:\LikeLion\LikeLion\shootingGame_Refactoring\shootingGame_Refactoring\bin\Debug\shootingGame_Refactoring.exe
+C:\LikeLion\LikeLion\shootingGame_Refactoring\shootingGame_Refactoring\bin\Debug\shootingGame_Refactoring.pdb
+C:\LikeLion\LikeLion\shootingGame_Refactoring\shootingGame_Refactoring\obj\Debug\shootingGame_Refactoring.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\shootingGame_Refactoring\shootingGame_Refactoring\obj\Debug\shootingGame_Refactoring.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\shootingGame_Refactoring\shootingGame_Refactoring\obj\Debug\shootingGame_Refactoring.exe
+C:\LikeLion\LikeLion\shootingGame_Refactoring\shootingGame_Refactoring\obj\Debug\shootingGame_Refactoring.pdb

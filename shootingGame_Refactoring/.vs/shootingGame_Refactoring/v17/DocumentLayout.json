@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\shootingGame_Refactoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A5FA-AE4E-4E31-8B0B-155DF3930905}|shootingGame_Refactoring\\shootingGame_Refactoring.csproj|c:\\likelion\\likelion\\shootinggame_refactoring\\shootinggame_refactoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A5FA-AE4E-4E31-8B0B-155DF3930905}|shootingGame_Refactoring\\shootingGame_Refactoring.csproj|solutionrelative:shootinggame_refactoring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\shootingGame_Refactoring\\shootingGame_Refactoring\\Program.cs",
+              "RelativeDocumentMoniker": "shootingGame_Refactoring\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\shootingGame_Refactoring\\shootingGame_Refactoring\\Program.cs",
+              "RelativeToolTip": "shootingGame_Refactoring\\Program.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAswNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:15:50.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
