@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\Study33\Study33\bin\Debug\Study33.exe.config
+C:\LikeLion\LikeLion\Study33\Study33\bin\Debug\Study33.exe
+C:\LikeLion\LikeLion\Study33\Study33\bin\Debug\Study33.pdb
+C:\LikeLion\LikeLion\Study33\Study33\obj\Debug\Study33.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\Study33\Study33\obj\Debug\Study33.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\Study33\Study33\obj\Debug\Study33.exe
+C:\LikeLion\LikeLion\Study33\Study33\obj\Debug\Study33.pdb

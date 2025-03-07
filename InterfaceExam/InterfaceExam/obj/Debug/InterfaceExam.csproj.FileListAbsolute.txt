@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.exe.config
+C:\LikeLion\LikeLion\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.exe
+C:\LikeLion\LikeLion\InterfaceExam\InterfaceExam\bin\Debug\InterfaceExam.pdb
+C:\LikeLion\LikeLion\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.exe
+C:\LikeLion\LikeLion\InterfaceExam\InterfaceExam\obj\Debug\InterfaceExam.pdb

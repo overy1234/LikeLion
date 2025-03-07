@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\Study29\Study29\bin\Debug\Study29.exe.config
+C:\LikeLion\LikeLion\Study29\Study29\bin\Debug\Study29.exe
+C:\LikeLion\LikeLion\Study29\Study29\bin\Debug\Study29.pdb
+C:\LikeLion\LikeLion\Study29\Study29\obj\Debug\Study29.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\Study29\Study29\obj\Debug\Study29.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\Study29\Study29\obj\Debug\Study29.exe
+C:\LikeLion\LikeLion\Study29\Study29\obj\Debug\Study29.pdb

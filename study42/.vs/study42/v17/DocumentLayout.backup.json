@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\study42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF82A8A-E37C-4785-AAD2-FF56EF2FD70E}|study42\\study42.csproj|c:\\likelion\\likelion\\study42\\study42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF82A8A-E37C-4785-AAD2-FF56EF2FD70E}|study42\\study42.csproj|solutionrelative:study42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF82A8A-E37C-4785-AAD2-FF56EF2FD70E}|study42\\study42.csproj|c:\\likelion\\likelion\\study42\\study42\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF82A8A-E37C-4785-AAD2-FF56EF2FD70E}|study42\\study42.csproj|solutionrelative:study42\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF82A8A-E37C-4785-AAD2-FF56EF2FD70E}|study42\\study42.csproj|c:\\likelion\\likelion\\study42\\study42\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF82A8A-E37C-4785-AAD2-FF56EF2FD70E}|study42\\study42.csproj|solutionrelative:study42\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF82A8A-E37C-4785-AAD2-FF56EF2FD70E}|study42\\study42.csproj|c:\\likelion\\likelion\\study42\\study42\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF82A8A-E37C-4785-AAD2-FF56EF2FD70E}|study42\\study42.csproj|solutionrelative:study42\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\study42\\study42\\Warrior.cs",
+              "RelativeDocumentMoniker": "study42\\Warrior.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\study42\\study42\\Warrior.cs",
+              "RelativeToolTip": "study42\\Warrior.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:42:07.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\study42\\study42\\Mage.cs",
+              "RelativeDocumentMoniker": "study42\\Mage.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\study42\\study42\\Mage.cs",
+              "RelativeToolTip": "study42\\Mage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBDwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:34:12.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\study42\\study42\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "study42\\GameCharacter.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\study42\\study42\\GameCharacter.cs",
+              "RelativeToolTip": "study42\\GameCharacter.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAzwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:25:03.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LikeLion\\LikeLion\\study42\\study42\\Program.cs",
+              "RelativeDocumentMoniker": "study42\\Program.cs",
+              "ToolTip": "C:\\LikeLion\\LikeLion\\study42\\study42\\Program.cs",
+              "RelativeToolTip": "study42\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:16:52.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
