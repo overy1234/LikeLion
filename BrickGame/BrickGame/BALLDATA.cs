@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BrickGame
 {
-    class BALLDATA
+    public class BALLDATA
     {
         public int nReady; //공움직일 준비상태
         public int nDirect; //공 방향 변수
