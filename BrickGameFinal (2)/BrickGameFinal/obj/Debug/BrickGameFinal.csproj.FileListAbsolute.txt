@@ -1,0 +1,15 @@
+C:\y2k\BrickGameFinal\BrickGameFinal\bin\Debug\BrickGameFinal.exe.config
+C:\y2k\BrickGameFinal\BrickGameFinal\bin\Debug\BrickGameFinal.exe
+C:\y2k\BrickGameFinal\BrickGameFinal\bin\Debug\BrickGameFinal.pdb
+C:\y2k\BrickGameFinal\BrickGameFinal\obj\Debug\BrickGameFinal.csproj.AssemblyReference.cache
+C:\y2k\BrickGameFinal\BrickGameFinal\obj\Debug\BrickGameFinal.csproj.SuggestedBindingRedirects.cache
+C:\y2k\BrickGameFinal\BrickGameFinal\obj\Debug\BrickGameFinal.csproj.CoreCompileInputs.cache
+C:\y2k\BrickGameFinal\BrickGameFinal\obj\Debug\BrickGameFinal.exe
+C:\y2k\BrickGameFinal\BrickGameFinal\obj\Debug\BrickGameFinal.pdb
+C:\C#\BrickGameFinal (2)\BrickGameFinal\bin\Debug\BrickGameFinal.exe.config
+C:\C#\BrickGameFinal (2)\BrickGameFinal\bin\Debug\BrickGameFinal.exe
+C:\C#\BrickGameFinal (2)\BrickGameFinal\bin\Debug\BrickGameFinal.pdb
+C:\C#\BrickGameFinal (2)\BrickGameFinal\obj\Debug\BrickGameFinal.csproj.AssemblyReference.cache
+C:\C#\BrickGameFinal (2)\BrickGameFinal\obj\Debug\BrickGameFinal.csproj.CoreCompileInputs.cache
+C:\C#\BrickGameFinal (2)\BrickGameFinal\obj\Debug\BrickGameFinal.exe
+C:\C#\BrickGameFinal (2)\BrickGameFinal\obj\Debug\BrickGameFinal.pdb

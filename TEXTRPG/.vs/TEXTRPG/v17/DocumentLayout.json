@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\LikeLion\\LikeLion\\TEXTRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3DBCB7C-281A-468D-B649-B75EF17BA8D4}|TEXTRPG\\TEXTRPG.csproj|C:\\LikeLion\\LikeLion\\TEXTRPG\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3DBCB7C-281A-468D-B649-B75EF17BA8D4}|TEXTRPG\\TEXTRPG.csproj|c:\\likelion\\likelion\\textrpg\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DBCB7C-281A-468D-B649-B75EF17BA8D4}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{B3DBCB7C-281A-468D-B649-B75EF17BA8D4}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DBCB7C-281A-468D-B649-B75EF17BA8D4}|TEXTRPG\\TEXTRPG.csproj|c:\\likelion\\likelion\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3DBCB7C-281A-468D-B649-B75EF17BA8D4}|TEXTRPG\\TEXTRPG.csproj|C:\\LikeLion\\LikeLion\\TEXTRPG\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DBCB7C-281A-468D-B649-B75EF17BA8D4}|TEXTRPG\\TEXTRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "TEXTRPG\\Monster.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAvwAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:04:02.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T05:04:02.814Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "TEXTRPG\\Field.cs",
               "ViewState": "AgIAAJMAAAAAAAAAAAAzwJUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:03:04.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T05:03:04.331Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "TEXTRPG\\MainGame.cs",
               "ToolTip": "C:\\LikeLion\\LikeLion\\TEXTRPG\\TEXTRPG\\MainGame.cs",
               "RelativeToolTip": "TEXTRPG\\MainGame.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAiwEIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAowEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T04:32:08.305Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "TEXTRPG\\Player.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAwwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:12:58.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T04:12:58.317Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "TEXTRPG\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T04:08:14.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T04:08:14.923Z"
             }
           ]
         }
